@@ -1,0 +1,12 @@
+{
+  "autoPin": true,
+  "pins": [
+    {
+      "package": "Atlas",
+      "reason": null,
+      "repositoryURL": "/Users/robertherdzik/Documents/Workspace/Test Projects/SwiftPackageManager/Atlas",
+      "version": "1.0.0"
+    }
+  ],
+  "version": 1
+}
